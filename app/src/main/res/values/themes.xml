@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RecyclerView_Irma007" parent="Theme.Material3.DayNight">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.RecyclerView_Irma007" parent="Base.Theme.RecyclerView_Irma007"/>
+</resources>
